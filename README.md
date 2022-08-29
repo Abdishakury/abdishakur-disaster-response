@@ -27,7 +27,7 @@ The Disaster Response Pipeline Project is the data engineer project assigned by 
     joblib==1.1.0
     MarkupSafe==2.0.1
     nltk==3.6.5
-    numpy==1.22.4
+    numpy==1.21.4
     pandas==1.3.5
     plotly==5.4.0
     python-dateutil==2.8.2
