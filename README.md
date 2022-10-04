@@ -24,7 +24,7 @@ The Disaster Response Pipeline Project is the data engineer project assigned by 
     gunicorn==20.1.0
     itsdangerous==2.0.1
     Jinja2==3.0.3
-    joblib==1.1.0
+    joblib==2.0
     MarkupSafe==2.0.1
     nltk==3.6.5
     numpy==1.21.4
