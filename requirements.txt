@@ -4,7 +4,7 @@ Flask==2.2.5
 greenlet==1.1.2
 gunicorn==22.0.0
 itsdangerous==2.0.1
-Jinja2==3.1.4
+Jinja2==3.1.6
 joblib==1.2.0
 MarkupSafe==2.0.1
 nltk==3.9
@@ -21,4 +21,5 @@ SQLAlchemy==1.4.28
 tenacity==8.0.1
 threadpoolctl==3.0.0
 tqdm==4.66.3
-Werkzeug==2.3.8
+Werkzeug==3.0.6
+
