@@ -19,14 +19,14 @@ The Disaster Response Pipeline Project is the data engineer project assigned by 
 
     click==8.0.3
     colorama==0.4.4
-    Flask==2.0.2
+    Flask==3.0
     greenlet==1.1.2
     gunicorn==20.1.0
     itsdangerous==2.0.1
     Jinja2==3.0.3
     joblib==2.0
     MarkupSafe==2.0.1
-    nltk==3.6.5
+    nltk==9.3
     numpy==1.21.4
     pandas==1.3.5
     plotly==5.4.0
