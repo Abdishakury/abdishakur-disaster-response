@@ -40,7 +40,7 @@ The Disaster Response Pipeline Project is the data engineer project assigned by 
     tenacity==8.0.1
     threadpoolctl==3.0.0
     tqdm==4.62.3
-    Werkzeug==2.0.2
+    Werkzeug==3.0
 
 ## Project Components <a name="Components"></a>
 
